@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/michaellee/Documents/c_ptr/Ch01/01_01/01_01-pointer1'
+relocations:     []
+...
