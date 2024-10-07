@@ -19,6 +19,7 @@ int main()
 	for( x=0; x<10; x++ )
 	{
 		*p = x * 100;
+		printf("%d\n",*p);
 		/* reference the next integer location */
 		p++;
 	}

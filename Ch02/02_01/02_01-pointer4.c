@@ -8,7 +8,7 @@ int main()
 	p = a;
 	for( x=0; x<5; x++ )
 	{
-		printf("%d\n", *(p+x) );
+		printf("%p\n",p+x);
 	}
 
 	return(0);
